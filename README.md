@@ -1,1 +1,1 @@
-# bashrc_file
+OLD VIM CONFIG (First try)
